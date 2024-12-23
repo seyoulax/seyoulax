@@ -10,4 +10,9 @@
 - *Winner🥈 of All-Russian [**National Technology Olimpiad in Big Data and Machine Learning**](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)*
 - *Winner🥇 of [**VK-Cloud&HSE hack**](https://cloud.vk.com/events/vk-hse-data-hack/)*
 
-  
+### Contacts
+- **Telegram** [**@seyolax**](https://t.me/seyolax)
+- **Mail** [**danisdinm@gmail.com**](mailto:danisdinm@gmail.com)
+
+### CV
+- [**Current CV**](https://drive.google.com/file/d/1y1_VGaEVOo5xiqfTQHI6dXr9zi5Hndk7/view?usp=drive_link)
