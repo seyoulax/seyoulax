@@ -1,6 +1,6 @@
 <h1 align=center> Hi there my name is Danis 👋
 
-### *- I’m high school student. Currently learning **ML**, **Math** and **Algorithms***
+### *- I’m high school student currently learning **ML**, **Math** and **Algorithms***
 
 ### Some awards:
 - *Winner(9 out of 50) of [**All Russian AI olympiad**](https://ai.edu.gov.ru/)*
@@ -15,4 +15,4 @@
 - **Mail** [**danisdinm@gmail.com**](mailto:danisdinm@gmail.com)
 
 ### CV
-- [**Current CV**](https://drive.google.com/file/d/1y1_VGaEVOo5xiqfTQHI6dXr9zi5Hndk7/view?usp=drive_link)
+- [**my CV**](https://drive.google.com/file/d/1y1_VGaEVOo5xiqfTQHI6dXr9zi5Hndk7/view?usp=drive_link)
