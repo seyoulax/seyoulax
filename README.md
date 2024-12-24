@@ -13,6 +13,5 @@
 ### Contacts
 - **Telegram** [**@seyolax**](https://t.me/seyolax)
 - **Mail** [**danisdinm@gmail.com**](mailto:danisdinm@gmail.com)
-
 ### CV
-- [**my CV**](https://drive.google.com/file/d/1y1_VGaEVOo5xiqfTQHI6dXr9zi5Hndk7/view?usp=drive_link)
+- [**my CV**](https://drive.google.com/file/d/1SrFPAg8IPSU6PzKJ0lr5iXzXcpNN4ZJf/view?usp=sharing)
